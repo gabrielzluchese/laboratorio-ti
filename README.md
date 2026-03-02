@@ -8,6 +8,3 @@ Desenvolver habilidades práticas em Suporte Técnico e Infraestrutura, simuland
 - Linux (Ubuntu)
 - VirtualBox
 - Redes (TCP/IP, DNS, DHCP)
-
-## Início
-Março 2026
