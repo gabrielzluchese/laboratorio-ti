@@ -1,10 +1,50 @@
-# Laboratório TI
+# 🚀 Laboratório TI - Gabriel Luchese
 
-## Objetivo
-Desenvolver habilidades práticas em Suporte Técnico e Infraestrutura, simulando cenários reais de ambiente corporativo.
+Projeto prático de transição para a área de Tecnologia da Informação.
 
-## Tecnologias
-- Windows
-- Linux (Ubuntu)
+Este repositório documenta minha evolução técnica através de estudos práticos em:
+
+- 🐧 Linux
+- 🌐 Redes
+- 🖥️ Virtualização
+- 🔐 Segurança
+- ☁️ Cloud Computing
+
+---
+
+## 🎯 Objetivo
+
+Construir experiência prática real e documentada, simulando ambientes corporativos.
+
+---
+
+## 🖥️ Ambiente de Laboratório
+
+**Hardware:**
+- Ryzen 5 4600H
+- 16GB RAM
+- SSD NVMe 500GB
+- GTX 1650
+
+**Software de Virtualização:**
 - VirtualBox
-- Redes (TCP/IP, DNS, DHCP)
+
+---
+
+## 📅 Progresso
+
+| Dia | Atividade | Status |
+|------|------------|--------|
+| 01 | Setup do laboratório + Ubuntu Server | ✅ Concluído |
+
+---
+
+## 📂 Documentação detalhada
+
+- [Dia 01 - Setup do Laboratório](docs/dia-01-setup-lab.md)
+
+---
+
+## 📈 Evolução
+
+Este repositório será atualizado diariamente com novos laboratórios, testes e simulações.
